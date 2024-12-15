@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>PRACTICE</title>
+</head>
+<body style="background-color: pink;">
+ <h1 style="color:hotpink;font-family: 'Lucida Handwriting',cursive;">DRAWING COURSES WITH AJLA SITA MAMASITA<h1>
+ <p style="color:lightyellow">Have you ever wanted to improve your trashy art? Well lucky for you i give out after school lessons to people so you can upgrade your art to be worthy of your moms fridge.
+    Dont wait no longer! sign up now because there arent unlimited spots</p>
+   <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Not a rickroll click here</a></p>
+<p><table border="1">
+ <tr style="color:hotpink;font-family: 'comic sans',cursive;">
+   <th>mosha</th>
+   <th>cmimi(dite)</th>
+   <th>orari</th>
+  </tr>
+<tr style="color:lightyellow">
+  <td>10</td>
+  <td>500 l</td>
+  <td>2:00-3:00</td>
+</tr>
+<tr style="color:lightyellow">
+  <td>11</td>
+  <td>600 l</td>
+  <td>4:00-5:00</td>
+</tr>
+<tr style="color:lightyellow">
+  <td>12</td>
+  <td>700 l</td> 
+  <td>6:00-7:00</td>
+   </tr></p>
+<p style="color:lightyellow">now if you fit into any of the ages and are okay wih the times what the hell are you waiting for? Fill out the form and make it official (I better not see any of you little pranksters putting fake info and wasting my time, otherwise ill pop your head of like a barbie)</p>
+   <h2 style="color:hotpink;font-family: 'comic sans',cursive;">Fill me up baby</h2>
+   <form action="/submit" method="post">
+     <label for="name">Ur name:</label>
+     <input type="text" required>
+     <br><br>
+     
+     <label for"email"> Ur mommas email:</label>
+     <input type="email" id="email" name="email" required>
+     <br><br>
+     
+     <label for="message"> Smth abt ur trashy levell:</label>
+     <textarea id="message" name="message" rows"2" col="4" required></textarea>
+     <br><br>
+     
+      <button type="/submit">click here ur info is safe</button>
+       </form>
+   <br><br>
+   <h3 style="color:hotpink">SOME LITTLE RULIES</h3>
+   <ol style="color:lightyellow">
+     <li>I hate vomit so if you vomit i have full right to put you in the washing machine cus i aint touching that</li>
+     <li>I dont take responsibility if after this course ur art is still trashy(it aint my fault ur bad)</li>
+     <li>Dont talk to me i hate socializing</li>
+</body>
+   </html>
